@@ -14,3 +14,4 @@ p_2 = p + geom_bar(stat = "identity")
 p_2
 
 #ANOTHER TEST LINE
+#c("#B54545", "#FFFFFF", "#FFFFFF")
