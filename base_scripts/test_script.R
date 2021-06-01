@@ -25,7 +25,7 @@ test_data$Species = as.character(test_data$Species)
 #MODEL TRAINING
 #_______________________________________________________________________
 
-#MODEL EVALUATION
+#MODEL VALIDATION
 #_______________________________________________________________________
 
 
