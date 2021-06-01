@@ -13,5 +13,9 @@ p = ggplot(data = test_data, aes(x = Species, y= Petal.Width))
 p_2 = p + geom_bar(stat = "identity")
 print(p_2)
 
+
+#DATA CLEANSING
+#_______________________________________________________________________
+
 #ANOTHER TEST LINE
 #c("#B54545", "#FFFFFF", "#FFFFFF")
