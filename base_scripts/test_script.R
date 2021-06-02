@@ -6,7 +6,7 @@ test_data <- datasets::iris %>% as_tibble()
 test_data$Species = as.character(test_data$Species)
 
 
-#DATABASE CONNECTION (MYSQL & SQLITE)
+#DATABASE CONNECTION (MYSQL & SQLITE & DATA FILES)
 #_______________________________________________________________________
 
 #DATA CLEANSING
