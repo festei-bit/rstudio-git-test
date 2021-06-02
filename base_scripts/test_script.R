@@ -6,9 +6,8 @@ test_data <- datasets::iris %>% as_tibble()
 test_data$Species = as.character(test_data$Species)
 
 
-#DATABASE CONNECTION STARTS
+#DATABASE CONNECTION
 #_______________________________________________________________________
-
 
 #DATA CLEANSING
 #_______________________________________________________________________
@@ -27,7 +26,6 @@ test_data$Species = as.character(test_data$Species)
 
 #MODEL VALIDATION
 #_______________________________________________________________________
-
 
 #VISUALIZATION
 #_______________________________________________________________________
