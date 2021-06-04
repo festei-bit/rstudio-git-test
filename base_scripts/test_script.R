@@ -29,10 +29,6 @@ test_data$Species = as.character(test_data$Species)
   #BOX PLOT TEST
   #_______________________
 
-  #OTHER MEASURES
-  #_______________________
-
-
 #SCALING OF VARIABLES
 #_______________________________________________________________________
 
