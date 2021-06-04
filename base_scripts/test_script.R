@@ -1,6 +1,7 @@
 library(datasets)
 library(tidyverse)
 library(caret)
+
 #library(help = "datasets")
 
 test_data <- datasets::iris %>% as_tibble()
@@ -10,11 +11,23 @@ test_data$Species = as.character(test_data$Species)
 #DATABASE CONNECTION (MYSQL & SQLITE & DATA FILES)
 #_______________________________________________________________________
 
-#DATA CLEANSING
+#DATA CLEANSING (OUTLINE MORE DETAILED STRATEGY)
 #_______________________________________________________________________
+
+  #FORMATTING
+  #_______________________
+  
+  #MISSING VALUES
+  #_______________________
+
+  #FEATURE ENGINEERING
+  #_______________________
 
 #OUTLIER DETECTION
 #_______________________________________________________________________
+
+  #BOX PLOT TEST
+  #_______________________
 
 #SCALING OF VARIABLES
 #_______________________________________________________________________
