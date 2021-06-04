@@ -14,6 +14,15 @@ test_data$Species = as.character(test_data$Species)
 #DATA CLEANSING (OUTLINE MORE DETAILED STRATEGY)
 #_______________________________________________________________________
 
+  #FORMATTING
+  #_______________________
+  
+  #MISSING VALUES
+  #_______________________
+
+  #FEATURE ENGINEERING
+  #_______________________
+
 #OUTLIER DETECTION
 #_______________________________________________________________________
 
