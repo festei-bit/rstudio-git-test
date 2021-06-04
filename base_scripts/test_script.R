@@ -26,6 +26,9 @@ test_data$Species = as.character(test_data$Species)
 #OUTLIER DETECTION
 #_______________________________________________________________________
 
+  #BOX PLOT TEST
+  #_______________________
+
 #SCALING OF VARIABLES
 #_______________________________________________________________________
 
